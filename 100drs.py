@@ -15,5 +15,5 @@ for n in range (1,100):
 
 for x in range(1,100):
         if szamok_list[x] == 'open':
-            print('Door',(x)'is open :)')
+            print (x)
 
